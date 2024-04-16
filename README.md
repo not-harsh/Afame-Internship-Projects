@@ -10,14 +10,3 @@ The Sales Data Analysis project involves leveraging Power BI to analyze a sizabl
 
 The Titanic Survival Prediction project focuses on predicting the survival outcomes of passengers aboard the Titanic using machine learning techniques. The project involves data preprocessing, model training, evaluation, and prediction.
 
-internship projects/
-│
-├── Sales Data Analysis/
-│   ├── Sales_Analysis.pbix
-│   └── ECOMM DATA.csv
-│
-├── Titanic Survival Prediction/
-│   ├── Titanic-Dataset.csv
-│   └── titanic_survival_prediction.py
-│
-└── README.md
