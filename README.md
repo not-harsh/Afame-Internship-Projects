@@ -12,18 +12,12 @@ The Titanic Survival Prediction project focuses on predicting the survival outco
 
 internship projects/
 │
-
 ├── Sales Data Analysis/
-
 │   ├── Sales_Analysis.pbix
 │   └── ECOMM DATA.csv
-
 │
-
 ├── Titanic Survival Prediction/
-
 │   ├── Titanic-Dataset.csv
 │   └── titanic_survival_prediction.py
-
 │
 └── README.md
