@@ -16,7 +16,6 @@ internship projects/
 ├── Sales Data Analysis/
 
 │   ├── Sales_Analysis.pbix
-
 │   └── ECOMM DATA.csv
 
 │
@@ -24,9 +23,7 @@ internship projects/
 ├── Titanic Survival Prediction/
 
 │   ├── Titanic-Dataset.csv
-
 │   └── titanic_survival_prediction.py
 
 │
-
 └── README.md
